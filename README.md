@@ -1,2 +1,7 @@
-# CUDA
-Contains different projects implemented using CUDA programming language
+# Description of various proojects
+
+#Course  Project
+
+-Contains CUDA C code for the course projects that I undertook.
+
+
